@@ -751,7 +751,7 @@ body{
     overflow: auto;
 }
 .team-item {
-    width: 28%;
+    width: 30%;
     float: left;
     text-align: center;
     padding: 18px 14px;   
@@ -844,7 +844,7 @@ body{
     overflow: auto;
 }
 .news-item {
-    width: 28%;
+    width: 30%;
     height: auto;
     text-align: center;
     float: left;
@@ -974,4 +974,5 @@ body{
     background-color: rgb(251, 50, 97);
 
 }
+
 
