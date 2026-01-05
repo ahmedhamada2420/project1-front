@@ -79,7 +79,7 @@ body{
     position: absolute;
     width: 150px;
     padding: 5px;
-    background-color: rgb(157, 48, 70);
+    background-color: rgb(206, 49, 81);
     text-align: center;
     left: 0;
     top: 150%;
@@ -972,4 +972,5 @@ body{
 }
 .footer-list ul li:hover {
     background-color: rgb(251, 50, 97);
+
 }
